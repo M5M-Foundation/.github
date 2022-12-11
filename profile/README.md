@@ -1,4 +1,4 @@
-[![M5M Foundation: Changing Lives Through Nutrition](wp-content/logos/m5m-github-banner-1280x640.png)](https://m5mfoundation.org)
+[![M5M Foundation: Changing Lives Through Nutrition](profile/logos/m5m-github-banner-1280x640.png)](https://m5mfoundation.org)
 # M5M Foundation
 Changing Lives Through Nutrition
 
