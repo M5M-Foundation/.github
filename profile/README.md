@@ -14,6 +14,8 @@ The M5M Foundation is an independent 501c (3) non-profit charity organization. I
 ## WHAT WE DO
 The M5M Foundation serves to bring hope. Mannatech, Inc., a direct sales company, engaged in research, development and distribution of health and wellness products, had a passion to apply their real-food technology and glyconutrient supplements to help tackle a global issue. They had the resources that would help malnourished children receive proper nutrition, but they needed a way to supply it. The M5M Foundation acts as an ambassador for these children by delivering the gift of better nutrition which Mannatech provides through their PhytoBlend™ product.
 
-# Site is built on
+# Repositories
 
-[![tools](https://skillicons.dev/icons?i=wordpress,css,html,linux,git,github,markdown,vscode)](https://theologic.us/contact-me/)
+## [m5mfoundation](https://github.com/M5M-Foundation/m5mfoundation)
+
+**PRIVATE Repo** This is due because of the cleartext passwords within the wp-config file. smh. We will move to NOT Wordpress soon.
